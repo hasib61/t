@@ -1,0 +1,9 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "main": "predictionBot.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "express": "^4.17.1"
+  }
+}
