@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 
 const botToken = '7941483964:AAGpHkggHmCSnRH4TvG6QyxrO0vurgOWhmA'; // আপনার বট টোকেন এখানে দিন
-const channelId = '-1002161267501'; // আপনার চ্যানেল আইডি এখানে দিন
+const channelId = '1002161267501'; // আপনার চ্যানেল আইডি এখানে দিন
 
 // Define messages and prefixes
 var messages = ["PURPLE 🟣", "RED 🔴", "GREEN 🟢", "BIG", "SMALL"];
